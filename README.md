@@ -1,10 +1,13 @@
+![NextHireAI-Shivam171](https://github.com/user-attachments/assets/29fe8335-7fc6-4593-b8be-7ac1d9d2e560)
+
+
 # 🚀 NextHireAi (Job Seeker & Recruiter Web App)
 
 This is a minimalistic, responsive web application built using **Next.js**, **Convex**, **Firebase**, **Clerk**, and **Google Generative AI**. The main purpose of this project is to provide a seamless and intuitive experience for job seekers and recruiters to analyze resumes (CVs) based on job descriptions. The app is designed to analyze ATS (Applicant Tracking System) scores and offer detailed feedback and suggestions for job seekers.
 
 ### 🧑‍💻 Project Overview
 
-I built this project to solve a common problem I encountered while searching for a job. Many ATS-checking websites lack good UI and user experience, with many built using frameworks like Streamlit and Python. I wanted to create a clean, intuitive platform with great user experience where users can check their ATS score and improve their resumes.
+I built this project to solve a common problem, which i encountered while searching for a job. Many ATS-checking websites lack good UI and user experience, with many built using frameworks like Streamlit and Python. I wanted to create a clean, intuitive platform with great user experience where users can check their ATS score and improve their resumes.
 
 The app allows users to sign up or log in and choose between two roles: **Recruiter** or **Job Seeker**. The Recruiter role allows you to view resumes/CVs submitted by job seekers, filter them by skills, and access them via PDF links. The Job Seeker role allows users to upload their resume (CV), input a job description, and analyze their resume using generative AI to get tips, suggestions, and an ATS score.
 
