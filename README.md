@@ -77,6 +77,7 @@ The app allows users to sign up or log in and choose between two roles: **Recrui
 ### ⚠️ Known Issues
 
 - Some links on the homepage may not work as they are mockups.
+- If you ran into any issue, Try refreshing your page. It should work, if it didn't worked then create a issue, i'll try to correct them.
 - The "Download Report" feature is not fully implemented yet, but feel free to contribute!
 
 ### 🤝 Contribution
